@@ -1,5 +1,4 @@
-png
-jpg
+
 vn-aovtv-report.timi-esports.qq.com
 ocsp.apple.com
 *.apple.com
